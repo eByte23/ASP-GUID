@@ -32,5 +32,7 @@ var Guid = {
 
 ```
 Usage.
+```
 Guid.New() | Guid.New("D") returns xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 Guid.New("N") returns xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
